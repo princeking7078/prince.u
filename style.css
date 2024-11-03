@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    align-items: center;
+    
+    
+  }
+    .div1{
+      background-color: lightblue;
+      padding: 15px;
+      
+    }
